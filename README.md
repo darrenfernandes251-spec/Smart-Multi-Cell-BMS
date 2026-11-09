@@ -406,7 +406,7 @@ https://github.com/darrenfernandes251-spec/Smart-Multi-Cell-BMS
 To be added after publishing the final Wokwi project.
 
 **Project Report:**  
-`docs/Project_Report.pdf`
+[View Complete Internship Report](docs/Project_Report.pdf)
 
 ---
 
