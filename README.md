@@ -397,20 +397,29 @@ Potential improvements include:
 - Secure cloud communication and credential management.
 - Hardware-in-the-loop testing and physical battery validation.
 
-## 13. Project Links
 
-**GitHub Repository:**  
-https://github.com/darrenfernandes251-spec/Smart-Multi-Cell-BMS
+## Project Links
 
-**Wokwi Simulation:**  
-To be added after publishing the final Wokwi project.
+- **GitHub Repository:** https://github.com/darrenfernandes251-spec/Smart-Multi-Cell-BMS
 
-**Project Report:**  
-[View Complete Internship Report](docs/Project_Report.pdf)
+- **Wokwi Simulation:** To be added (public project link).
 
----
+- **Project Report:** [View Complete Internship Report](docs/Project_Report.pdf)
 
-**Project:** Smart Multi-Cell Battery Management System  
+## Architecture and Documentation
+
+- [System Architecture](<docs/System_Architecture(1).png>)
+- [System Workflow](<docs/System_Workflow(1).png>)
+
+## Project Evidence
+
+- [Wokwi Circuit](docs/evidence/wokwi_circuit.png)
+- [LCD Operation](docs/evidence/lcd_operation.png)
+- [Relay Protection](docs/evidence/relay_protection.png)
+- [FAILSAFE Recovery](docs/evidence/failsafe_recovery.png)
+- [Blynk Dashboard](docs/evidence/blynk_dashboard.png)
+- [Blynk Analytics](docs/evidence/blynk_analytics.png)
+
 **Submitted by:** Darren John Fernandes  
 **Department:** Electronics and Communication Engineering  
 **Institution:** Nitte Meenakshi Institute of Technology, Bengaluru  
