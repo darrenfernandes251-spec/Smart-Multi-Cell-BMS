@@ -402,7 +402,16 @@ Potential improvements include:
 
 - **GitHub Repository:** https://github.com/darrenfernandes251-spec/Smart-Multi-Cell-BMS
 
-- **Wokwi Simulation:** To be added (public project link).
+### Simulation Environment
+
+The project was developed, compiled, simulated and tested using
+Visual Studio Code, PlatformIO and the Wokwi VS Code Extension.
+
+**Access the project:**
+
+- [Open Project in Visual Studio Code](https://vscode.dev/redirect?url=vscode%3A%2F%2Fvscode.git%2Fclone%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Fdarrenfernandes251-spec%252FSmart-Multi-Cell-BMS.git)
+
+- [Download Complete Project (ZIP)](https://github.com/darrenfernandes251-spec/Smart-Multi-Cell-BMS/archive/refs/heads/main.zip)
 
 - **Project Report:** [View Complete Internship Report](docs/Project_Report.pdf)
 
