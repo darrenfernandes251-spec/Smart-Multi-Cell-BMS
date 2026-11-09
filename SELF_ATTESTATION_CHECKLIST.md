@@ -73,4 +73,4 @@ This checklist is intended to support an honest review of the project implementa
 **Microcontroller:** ESP32 DevKit C V4  
 **Development Platform:** VS Code and PlatformIO  
 **Simulation:** Wokwi  
-**Cloud
+**Cloud**
